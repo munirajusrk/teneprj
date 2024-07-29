@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Rootstock</title>
+    <meta name="description" content="Explore Rootstock, a product by Tene, a SaaS platform for agriculture extension. Learn how Rootstock enables input manufacturers and organizations to support farmers during crop cultivation, providing advisories, dealer connects, and expert consultations.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper rootstock">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/rootstock-banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>ROOTSTOCK</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Commercial Products</span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Rootstock</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="abt-info-products">
+            <div class="fluid-container">
+                <div class="about-info-products-warpper">
+                    <div class="left-about-info-products-img-info" style="padding: relative;">
+                        <span class="left-about-info-products-img-info-span"><img style="-webkit-transform: scaleX(-1); transform: scaleX(-1); border-radius: 0 7px 7px 0" src="images/inner-images/commercial-products/rootstock/01-ROOTSTOCK.jpg" alt="about-img"></span>
+                         <!-- <em class="left-about-com-products-img-info-em" style="bottom: 0; left: 0 ; margin: auto;"><img src="images/inner-images/product-logos/pestest.png" alt="about-img"></em> -->
+                     </div>
+                     <div class="right-about-info-products-txt-info">
+                        <h2 class="index-h2">Rootstock</h2>
+                         <p>A SaaS Platform for Agriculture Extension.</p>
+                         <p>Rootstock enables input manufacturers, governmental and non-governmental organizations to support farmers during crop cultivation. Support is typically in the form of advisories, dealer and expert connects.</p>
+                         <div class="e-sap">
+                            <img src="images/inner-images/product-logos/rootstock.png" alt="e-sap">
+                         </div>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+        <!-- <div class="abt-com-products">
+            <div class="fluid-container">
+                <div class="about-com-products-warpper">
+                    <div class="left-about-com-products-img-info">
+                         <span class="left-about-com-products-img-info-span"><img src="images/inner-images/abt-product-1.jpg" alt="about-img"></span>
+                         <em class="left-about-com-products-img-info-em" style="bottom: 0px; right: 90px;"><img src="images/inner-images/product-logos/rootstock.png" alt="about-img"></em>
+                         <em class="left-about-com-products-img-info-em"><img src="images/inner-images/abt-product-2.jpg" alt="about-img"></em>
+                     </div>
+                     <div class="right-about-com-products-txt-info">
+                        <h2 class="index-h2">Rootstock</h2>
+                         <p>A SaaS Platform for Agriculture Extension.</p>
+                         <p>Rootstock enables input manufacturers, governmental and non-governmental organizations to support farmers during crop cultivation. Support is typically in the form of advisories, dealer and expert connects.</p>
+                     </div>
+                 </div>
+            </div>
+        </div> -->
+
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/farmersneedadvice.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>FARMERS NEED ADVICE</h4>
+                        <p>Farmers are bothered by questions like, Which seed to use? What planting method to follow? Which fertilizer/pesticide to use? When and how to use them? What cultural practices to follow? Etc. They need advice at each step of a cropping cycle.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/commercial-products/rootstock/advisory/1.jpg" alt="Rootstock"></span>
+                        <span><img src="images/inner-images/commercial-products/rootstock/advisory/2.jpg" alt="Rootstock"></span>
+                        <span><img src="images/inner-images/commercial-products/rootstock/advisory/3.jpg" alt="Rootstock"></span>
+                        <span><img src="images/inner-images/commercial-products/rootstock/advisory/4.jpg" alt="Rootstock"></span>
+                        <span><img src="images/inner-images/commercial-products/rootstock/advisory/5.jpg" alt="Rootstock"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>WHAT CONSTITUTES AN ADVISORY?</h4>
+                        <p>An advisory is a bundle of information covering every aspect of crop cultivation — plant propagation, plant nutrition, plant protection, and other agronomic practices. One can structure advisories for any crop species on Rootstock.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/advisoriesareorganisationspecific.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>ADVISORIES ARE ORGANIZATION-SPECIFIC</h4>
+                        <p>Organizations can independently structure their advisories on Rootstock. Every bit of information an organization puts in an advisory is its own.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/r4-farm-iamges.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>ADVISORIES ARE FARM-SPECIFIC</h4>
+                        <p>Advisories are structured considering factors like season, location, variety, duration, soil properties, irrigation facility, farming type, target market, and others. This makes advisories farm- specific.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/agriknowledegebank.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>AGRI KNOWLEDGE BANK</h4>
+                        <p>At the heart of Rootstock lies a comprehensive digitised agri-knowledge bank. It has text and multimedia content available in multiple Indian languages.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/everyorganizationiswithfarmer.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>EVERY ORGANIZATION IS WITH EVERY FARMER</h4>
+                        <p>Farmers need to install just one mobile app to connect with any organization. They can select the organization whose advisories they prefer. Rootstock delivers them the advisories of the selected organization.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/r7-farmers-with-dealers.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>FARMERS ARE CONNECTED TO THE DEALERS</h4>
+                        <p>Organizations can recommend the dealers with whom the inputs suggested in the advisories are available to the farmers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/rural-youth-using-phone.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>RURAL FACILITATORS PROMOTE ADVISORIES</h4>
+                        <p>Rootstock empowers rural facilitators (youths) to promote advisories of different organizations. The facilitators can mediate the purchase/sale of inputs between farmers and dealers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/farmerscanseekexpertopinion.jpg" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4>FARMERS CAN SEEK EXPERT OPINIONS</h4>
+                        <p>Sometimes a farmer might need to consult experts. Rootstock connects farmers with the experts of the organization whose advisory the farmer has subscribed to.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrap">
+            <div class="fluid-container">
+                <div class="commercial-product-info">
+                    <span><img src="images/inner-images/commercial-products/rootstock/win-win.png" alt="Rootstock"></span>
+                    <div class="com-product-txt">
+                        <h4 style="text-align: center; width: 100%; margin-top: 20px;">WIN-WIN FOR EVERYONE ON ROOTSTOCK</h4>
+                        <ul class="tene-ul">
+                            <li><span>01.</span><span>Organizations benefit a lot. They do not have to pay to use Rootstock. They get connected to a large number of farmers directly, which generates higher market leads. Rootstock allows them to track the market leads reaching their dealers. Rootstock works on the principle of everyone- promotes-everyone, which reduces Customer Acquisition Cost by a significant margin.</span></li>
+                            <li><span>02.</span><span>Farmers get connected to different organizations through one app. They can choose among different the organizations providing advisories. They receive high quality advisories, expert services, and input seller connect.</span></li>
+                            <li><span>03.</span><span>Facilitators can earn a part of their livelihoods by promoting the advisories among farmers, and by mediating the purchase/sale of inputs between the farmers and dealers.</span></li>
+                            <li><span>04.</span><span>Dealers’ business is expanded beyond the boundaries of their physical shops. Rootstock Increases their farmer engagements, leading to higher sales.</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="product-imgs-div">
+            <div class="owl-carousel products-owl">
+                <span><img src="images/inner-images/gallery/commercial-products/1.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/2.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/3.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/4.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/5.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/6.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/7.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/8.jpg" alt="products"></span>
+           </div>
+        </div>
+
+        <div class="product-links-wrapper">
+            <div class="fluid-container">
+                <div class="product-links">
+                    <a href="sativus">Sativus</a>
+                    <a href="crop-input-tracking">Crop Input Tracking</a>
+                    <a href="rootstock">Rootstock</a>
+                </div>
+            </div>
+        </div>
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+    <script>
+        /* Slider */
+        $(document).ready(function(){$(".owl-carousel.commercial-products-slider").owlCarousel({items:1,loop:!0,nav:!1,dots:!0,autoplay:!0,autoplaySpeed:200,smartSpeed:200,autoplayHoverPause:!0})});
+        /* Slider */ 
+        </script>
+
+<script>
+    $(".owl-carousel.products-owl").owlCarousel({loop:!0,margin:10,autoplay:!0,autoplayTimeout:3e3,autoplayHoverPause:!0,nav:!1,dots:!1,responsive:{0:{items:1},480:{items:2},650:{items:3},900:{items:3},1000:{items:4},1280:{items:5},1600:{items:6},1900:{items:7}}});
+</script>
+</body>
+</html>

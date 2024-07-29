@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Contact Us</title>
+    <meta name="description" content="Contact Tene to address any inquiries or concerns. We eagerly await the opportunity to engage with you through your preferred communication channel.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/contact-us-banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>CONTACT US</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Contact Us</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contact Us Section -->
+        <div class="contact-us-wrapper">
+            <div class="fluid-container">
+                <div class="inner-contact-wrapper">
+                    <div class="contact-left">
+                        <h2 class="index-h2">get in touch with us</h2>
+                        <p>Feel free to reach out to us through any preferred communication channel as we eagerly await the opportunity to engage with you and address any inquiries or concerns you may have.</p>
+                        <div class="contacts-info">
+                            <div class="contact-info-card">
+                                <div class="contact-info-img">
+                                    <img src="./images/icons/email.png" alt="icon">
+                                </div>
+                                <div class="contact-info-txt">
+                                    <p>Mail Id</p>
+                                    <a href="mailto:Info@Tene-Ag.Com">Info@Tene-Ag.Com</a>
+                                </div>
+                            </div>
+                            <div class="contact-info-card">
+                                <div class="contact-info-img">
+                                    <img src="./images/icons/phone-call.png" alt="icon">
+                                </div>
+                                <div class="contact-info-txt">
+                                    <p>Phone No</p>
+                                    <a href="tel:918035542411">+91 8035542411</a>
+                                </div>
+                            </div>
+                            <div class="contact-info-card">
+                                <div class="contact-info-img">
+                                    <img src="./images/icons/location.png" alt="icon">
+                                </div>
+                                <div class="contact-info-txt">
+                                    <p>Location</p>
+                                    <a href="https://maps.app.goo.gl/THnBqhsEsALDTfSU9" target="_blank">1238, 7th B Cross Rd, Yelahanka Satellite Town, Yelahanka, Bengaluru, Karnataka 560064</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="contact-img">
+                        <img src="./images/index-images/contact-us.png" alt="contact-us">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact Us Section -->
+
+        
+
+        <!-- Contact Us Section -->
+        <div class="contact-frm-wrapper">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.988123941013!2d77.57889357522589!3d13.099938787227305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae185e0ad0c365%3A0x2c30e6821dab88fe!2sTene%20Agricultural%20solutions%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1708950053392!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="fluid-container">
+                <div class="inner-contact-frm-wrapper">
+                    <div class="contact-form-txt">
+                        <h2 class="index-h2">Contact Us</h2>
+                        <form class="contact-form" name="valid_cont" method="POST" onsubmit="return validationCont()">
+                            <div>
+                                <div class="contact-input">
+                                    <label for="name">Name <span>*</span></label>
+                                    <input type="text" id="name"  name="txtName" maxlength="60">
+                                </div>
+    
+                                <div class="contact-input">
+                                    <label for="email">Email <span>*</span></label>
+                                    <input type="text"  id="email" name="txtEmail" maxlength="35">
+                                </div>
+
+                                <div class="contact-input">
+                                    <label for="product">Product <span>*</span></label>
+                                    <select id="product" name="txtProduct">
+                                        <option value="">Select option</option>
+                                        <option value="Yes">Pestest</option>
+                                        <option value="Pesticide Label Claim">Pesticide Label Claim</option>
+                                        <option value="Sativus">Sativus</option>
+                                        <option value="Crop Input Tracking">Crop Input Tracking</option>
+                                        <option value="Rootstock">Rootstock</option>
+                                    </select>
+                                </div>
+
+                                <div class="contact-input">
+                                    <label for="enquiry">Nature of enquiry <span>*</span></label>
+                                    <select id="enquiry" name="TxtEnquiry">
+                                        <option value="">Select option</option>
+                                        <option value="General enquiry">General enquiry</option>
+                                        <option value="Reporting a problem">Reporting a problem</option>
+                                        <option value="Need a demo">Need a demo</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="contact-input">
+                                    <label for="message">Message <span>*</span></label>
+                                    <textarea id="message" name="txtMessage" maxlength="360"></textarea>
+                                </div>
+    
+                                <div class="submit-btn">
+                                    <button type="submit" value="button" name="txtsubmit">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact Us Section -->
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+</body>
+</html>

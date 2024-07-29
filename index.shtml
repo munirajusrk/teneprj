@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Cache-Control" content="max-age=31536000">
+    <title>Tene</title>
+    <meta name="description" content="Tene is the ultimate tech-enabler for agriculture, digitally connecting stakeholders in the sector. Explore our commercial products like Sativus, Crop Input Tracking, and Rootstock, as well as our non-commercial info products like PesTesT and Pesticide Label Claim. Contact us to learn more about our solutions and how we can support your agricultural endeavors.">
+    <meta name="keywords" content="">
+    <!-- <link rel="preload" href="css/tene-style.css" as="style"> -->
+    <!--#include virtual="includes/meta-tags.html" -->
+    <link rel="preload" fetchpriority="high" href="images/banners/1-The-ultimate-tech-enabler-for-agriculture-1.webp" as="image" type="image/webp">
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <!-- slider -->
+        <section class="index-page-slider desk">
+            <div class="owl-carousel owl-theme is">
+                <div class="slide slide-1" style="background-image: url('images/banners/1-The-ultimate-tech-enabler-for-agriculture-1.webp');">
+                    <div class="slider-txt">
+                        <h2>The Ultimate Tech-Enabler for Agriculture</h2>
+                        <p>We digitally connect the stakeholders of agriculture with each other.</p>
+                    </div>
+                </div>
+                <div class="slide slide-2" style="background-image: url('images/banners/wecreatecropdoctors-2.jpg');">
+                    <div class="slider-txt">
+                        <h2>We Create Crop Doctors</h2>
+                        <p>Rural youths serving as Crop Doctors can revolutionise Crop Health Management</p>
+                        <div class="btn-div">
+                            <a href="sativus" aria-label="Know More about Sativus, product of Tene">Know More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide slide-3" style="background-image: url('images/banners/3-We-help-companies-track-crop-inputs.jpg');">
+                    <div class="slider-txt">
+                        <h2>We Help Companies Track Crop Inputs</h2>
+                        <p>Tracking agricultural inputs distributed to farmers is made easy.</p>
+                        <div class="btn-div">
+                            <a href="crop-input-tracking" aria-label="Know More about Crop Input Tracking, product of Tene">Know More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide slide-4" style="background-image: url('images/banners/4-Collage-of-all-images---We-support-farmers-at-each-step-of-crop-production-2.jpg');">
+                    <div class="slider-txt">
+                        <h2>We Support Farmers at Each Step of Crop Production</h2>
+                        <p>We support farmers by considering the crop, place and farm characteristics</p>
+                        <div class="btn-div">
+                            <a href="rootstock" aria-label="Know More about Rootstock, product of Tene">Know More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide slide-5" style="background: url('images/banners/5-We-benefit-the-agri-sector-through-our-info-products-bg.webp')no-repeat left center/cover; ">
+                    <div class="slider-txt" style="padding-bottom: 80px ;">
+                        <span><img src="images/banners/5-info-We-benefit-the-agri-sector-through-our-info-products.png" alt="img"></span>
+                        <h2 style="width: 100%;">We Benefit the Agri Sector Through Our Info Products</h2>
+                        <p>We make agri content available to everyone in an easy-to-assimilate form</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- slider -->
+
+        <!-- about section -->
+        <div class="about-section-wrapper">
+            <div class="fluid-container">
+                <div data-aos="fade-down-right" class="inner-about-top">
+                    <h2 class="index-h2">About Tene</h2>
+                    <p>Our super strong domain and tech teams create products that stand out in the crowd. Our management has a combined professional experience of 70 years covering different aspects of agriculture — Science, Business and Development.</p>
+                    <p>We provide readymade software solutions to the agri sector. We develop, host and maintain our solutions. We train and support our users.</p>
+                    <div class="btn-div">
+                        <a href="about-us" aria-label="Know More about Tene">Know More</a>
+                    </div>
+                </div>
+                <div class="inner-about-down">
+                    <div class="inner-about-cards " id="counter">
+                        <div class="about-counter-card">
+                            <span><img src="images/icons/home-icons/farmer.png" alt="icon"></span>
+                            <div class="libre-bodoni-counter"><span class="counter-value" data-count="150000">90000</span>+</div>
+                            <p>No. of farmers <br> served</p>
+                        </div>
+                        <div class="about-counter-card">
+                            <span><img src="images/icons/home-icons/service.png" alt="icon"></span>
+                            <div class="libre-bodoni-counter"><span class="counter-value" data-count="10000">100</span>+</div>
+                            <p>No. of service <br> providers</p>
+                        </div>
+                        <div class="about-counter-card">
+                            <span><img src="images/icons/home-icons/client.png" alt="icon"></span>
+                            <div class="libre-bodoni-counter"><span class="counter-value" data-count="50">4</span>+</div>
+                            <p>No. of clients <br> supported</p>
+                        </div>
+                        <div class="about-counter-card">
+                            <span><img src="images/icons/home-icons/crop.png" alt="icon"></span>
+                            <div class="libre-bodoni-counter"><span class="counter-value" data-count="53">3</span>+</div>
+                            <p>No. of crops <br> covered</p>
+                        </div>
+                    </div>
+                    <div class="inner-about-img" data-aos="fade-down-left">
+                        <img src="images/index-images/abt-us-bg-2.jpg" alt="About-us">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- about section -->
+
+        <!-- commercial products section -->
+        <div class="commercial-products-wrapper">
+            <div class="fluid-container">
+                <div class="inner-commercial-products-top" data-aos="fade-down-right">
+                    <h2 class="index-h2">Our Commercial Products</h2>
+                    <p>Our products make a difference to the farmers, input manufacturers, input dealers, not-for-
+                        profit organizations, extension agents, subject experts, agricultural universities, government
+                        departments, and international organizations.</p>
+                </div>
+                <div class="inner-commercial-products-down">
+                    <div class="product-card-div">
+                        <h3 class="index-h3">SATIVUS</h3>
+                        <a href="sativus" aria-label="Know More about Sativus, product of Tene" class="product-card" data-aos="flip-left">
+                            <span><img src="./images/index-images/Sativus.JPG" alt="SATIVUS"></span>
+                            <div class="product-card-txt">
+                                <p>It is a white-labelled software platform focussed on pest/disease diagnosis and
+                                    management.</p>
+                            </div>
+                            <span class="more"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                    <div class="product-card-div">
+                        <h3 class="index-h3">Crop Input Tracking</h3>
+                        <a href="crop-input-tracking"  aria-label="Know More about Crop Input Tracking, product of Tene" class="product-card" data-aos="flip-up">
+                            <span><img src="./images/index-images/crop-c.jpg" alt="Crop Input Tracking"></span>
+                            <div class="product-card-txt">
+                                <p>It helps seed, pesticide and fertiliser industries to label their products with
+                                    QR code.</p>
+                            </div>
+                            <span  class="more"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                    <div class="product-card-div">
+                        <h3 class="index-h3">Rootstock</h3>
+                        <a href="rootstock"  aria-label="Know More about Rootstock, product of Tene" class="product-card" data-aos="flip-right">
+                            <span><img src="./images/index-images/farming-c.jpg" alt="Rootstock"></span>
+                            <div class="product-card-txt">
+                                <p>It is a SaaS platform for agri extension that supports farmers throughout the
+                                    cropping season.</p>
+                            </div>
+                            <span class="more"><i class="fa-solid fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- commercial products section -->
+
+        <!-- info products section -->
+        <div class="info-products-wrapper">
+            <div class="fluid-container">
+                <div class="inner-info-products-top">
+                    <div class="info-product-txt" data-aos="zoom-in-right">
+                        <h2 class="index-h2">OUR INFO PRODUCTS</h2>
+                        <p>We collate, organise and present information that is useful to many stakeholders of agriculture.
+                            Our Info Products are non-commercial. They focus on training and content.</p>
+                    </div>
+                    <div class="info-product-txt" data-aos="zoom-in-left">
+                        <img src="./images/index-images/tech-3.jpg" alt="INFO PRODUCTS">
+                    </div>
+                    <a href="pestest" aria-label="Know More about PesTesT" class="info-product-txt" data-aos="zoom-in-right">
+                        <img src="./images/index-images/Pestest.JPG" alt="Image representing PesTesT">
+                        <div class="info-product-overlay">
+                            <h3>PesTesT</h3>
+                            <p>It helps users in describing crop health issues, and helps them in guessing the causal group</p>
+                        </div>
+                    </a>
+                    <a href="label-claim"  aria-label="Know More about Pesticide Label Claim" class="info-product-txt" data-aos="zoom-in-left">
+                        <img src="./images/index-images/Label-claim.jpg" alt="Label Claim">
+                        <div class="info-product-overlay">
+                            <h3>Pesticide Label Claim</h3>
+                            <p> It helps the Indian agri-industry and subject experts in searching for pesticides with Label Claim.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- info products section -->
+
+        <!-- Contact Us Section -->
+        <div class="contact-wrapper">
+            <div class="fluid-container">
+                <div class="inner-contact-wrapper">
+                    <div class="contact-form-txt" data-aos="fade-down-right">
+                        <h2 class="index-h2">Contact Us</h2>
+                        <form class="contact-form" name="valid_cont" method="POST" onsubmit="return validationCont()">
+                            <div>
+                                <div class="contact-input">
+                                    <label for="name">Name <span>*</span></label>
+                                    <input type="text" id="name"  name="txtName" maxlength="60">
+                                </div>
+    
+                                <div class="contact-input">
+                                    <label for="email">Email <span>*</span></label>
+                                    <input type="text"  id="email" name="txtEmail" maxlength="35">
+                                </div>
+
+                                <div class="contact-input">
+                                    <label for="product">Product <span>*</span></label>
+                                    <select id="product" name="txtProduct">
+                                        <option value="">Select option</option>
+                                        <option value="Yes">Pestest</option>
+                                        <option value="Pesticide Label Claim">Pesticide Label Claim</option>
+                                        <option value="Sativus">Sativus</option>
+                                        <option value="Crop Input Tracking">Crop Input Tracking</option>
+                                        <option value="Rootstock">Rootstock</option>
+                                    </select>
+                                </div>
+
+                                <div class="contact-input">
+                                    <label for="enquiry">Nature of enquiry <span>*</span></label>
+                                    <select id="enquiry" name="TxtEnquiry">
+                                        <option value="">Select option</option>
+                                        <option value="General enquiry">General enquiry</option>
+                                        <option value="Reporting a problem">Reporting a problem</option>
+                                        <option value="Need a demo">Need a demo</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="contact-input">
+                                    <label for="message">Message <span>*</span></label>
+                                    <textarea id="message" name="txtMessage" maxlength="360"></textarea>
+                                </div>
+    
+                                <div class="submit-btn">
+                                    <button type="submit" value="button" name="txtsubmit">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="contact-img" data-aos="fade-down-left">
+                        <img src="./images/index-images/contact-us.png" alt="contact-us">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact Us Section -->
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+    <script> 
+
+    /* Slider */
+    $(document).ready(function(){$(".owl-carousel.is").owlCarousel({items:1,loop:!0,nav:!1,dots:!0,autoplay:!0,autoplaySpeed:400,smartSpeed:400,autoplayHoverPause:!0})});
+    /* Slider */ 
+
+    // Data Counter
+    var a = 0;
+    $(window).scroll(function() {
+    
+      var oTop = $('#counter').offset().top - window.innerHeight;
+      if (a == 0 && $(window).scrollTop() > oTop) {
+        $('.counter-value').each(function() {
+          var $this = $(this),
+            countTo = $this.attr('data-count');
+          $({
+            countNum: $this.text()
+          }).animate({
+              countNum: countTo
+            },
+            {
+              duration: 2000,
+              easing: 'swing',
+              step: function() {
+                $this.text(Math.floor(this.countNum));
+              },
+              complete: function() {
+                $this.text(this.countNum);
+              }
+            
+            });
+        });
+        a = 1;
+      }
+    });
+    // Data Counter
+
+    </script>
+    
+
+</body>
+</html>

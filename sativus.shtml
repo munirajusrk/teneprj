@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sativus</title>
+    <meta name="description" content="Discover Sativus, a comprehensive platform for crop health management, designed for large clients like state and national governments. Adopted by the Karnataka State Department of Agriculture as eSAP (= Electronic Solutions against Agricultural Pests), Sativus enables field users to provide crop health services, manage content, identify and assess problems, provide expert support, and deliver solutions to farmers.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper sativus">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/Sativus-Banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>SATIVUS</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Commercial Products</span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Sativus</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="abt-info-products">
+            <div class="fluid-container">
+                <div class="about-info-products-warpper">
+                    <div class="left-about-info-products-img-info" style="padding: relative;">
+                        <span class="left-about-info-products-img-info-span"><img src="images/inner-images/commercial-products/sativus/Sativus-intro-img.jpg" alt="about-img"></span>
+                         <!-- <em class="left-about-com-products-img-info-em" style="bottom: 0; left: 0 ; margin: auto;"><img src="images/inner-images/product-logos/pestest.png" alt="about-img"></em> -->
+                     </div>
+                     <div class="right-about-info-products-txt-info">
+                        <h2 class="index-h2">Sativus</h2>
+                        <p>A comprehensive platform for crop health management.</p>
+                        <p>This white-labelled platform is designed to serve large clients, like state and national governments. It has been adopted by the Karnataka State Department of Agriculture in the name of eSAP (= Electronic Solutions against Agricultural Pests).</p>
+                         <div class="e-sap">
+                            <img src="images/inner-images/product-logos/sativus.png" alt="e-sap">
+                         </div>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+        <!-- <div class="abt-com-products">
+            <div class="fluid-container">
+                <div class="about-com-products-warpper">
+                    <div class="left-about-com-products-img-info">
+                         <span class="left-about-com-products-img-info-span"><img src="images/inner-images/abt-product-1.jpg" alt="about-img"></span>
+                         <em class="left-about-com-products-img-info-em" style="bottom: 0px;"><img src="images/inner-images/product-logos/sativus.png" alt="about-img"></em>
+                         <em class="left-about-com-products-img-info-em"><img src="images/inner-images/abt-product-2.jpg" alt="about-img"></em>
+                     </div>
+                     <div class="right-about-com-products-txt-info">
+                        <h2 class="index-h2">Sativus</h2>
+                         <p>A comprehensive platform for crop health management.</p>
+                         <p>This white-labelled platform is designed to serve large clients, like state and national governments. It has been adopted by the Karnataka State Department of Agriculture in the name of eSAP (= Electronic Solutions against Agricultural Pests).</p>
+                     </div>
+                 </div>
+            </div>
+        </div> -->
+        
+
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/s1.jpg" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>ENABLES CROP HEALTH SERVICES</h4>
+                        <p>The platform enables field users (extension agents) to independently provide crop health services to the farmers. Field users can register farmers, diagnose problems, estimate problem intensity, provide prescriptions, and follow-up.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/contetntmanagementsystem.jpg" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>CONTENT MANAGEMENT</h4>
+                        <p>Clients can manage the content — crops, problems, solutions — by themselves. The platform allows for location-specific content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/s3.png" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>IDENTIFYING PROBLEMS</h4>
+                        <p>The platform generates a dichotomously branching, image-assisted architecture that guides field users to the problems. The architecture accommodates every crop and problem.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/expert-support.jpg" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>EXPERT SUPPORT</h4>
+                        <p>Clients can onboard their subject experts to the platform. The platform allows field users to connect with subject experts whenever such need arises.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/s5.png" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>ASSESSMENT OF PROBLEMS</h4>
+                        <p>The platform considers the type of problem, damage intensity, prevailing weather, expected market rates, etc., to assess the seriousness of a problem.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/s6.png" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>SOLUTIONS TO PROBLEMS</h4>
+                        <p>The platform allows field users to share the prescribed solutions with the farmers. Solutions are based not only on the crop and problem, but also on the location, crop age, and seriousness.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/follow-up-with-farmer.jpg" alt="follow-up-with-farmer"></span>
+                    <div class="com-product-txt">
+                        <h4>FOLLOW UP WITH FARMERS</h4>
+                        <p>The platform prompts field users to follow-up with the farmers. The follow up information is essential for improving/updating content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/commercial-products/sativus/s8.png" alt="Sativus"></span>
+                        <span><img src="images/inner-images/commercial-products/sativus/highqualitydata-1.png" alt="Sativus"></span>
+                        <span><img src="images/inner-images/commercial-products/sativus/highqualitydata-2.png" alt="Sativus"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>HIGH QUALITY DATA</h4>
+                        <p>The platform has built-in mechanisms to prevent data duplication and false data. High quality data to the client is an important USP of the platform.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/worksofflineupdatesoffline.jpg" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>WORKS OFFLINE, UPDATES ONLINE</h4>
+                        <p>The field user app synchronises with the server when online and works in the field oﬄine. Services can be seamlessly provided even in remote landscapes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/locallanguages.png" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>LOCAL LANGUAGES</h4>
+                        <p>The platform enables clients to include content in local languages. Field users can choose the language they are familiar with.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/sativus/flexible-hosting-options.jpg" alt="Sativus"></span>
+                    <div class="com-product-txt">
+                        <h4>FLEXIBLE HOSTING OPTIONS</h4>
+                        <p>The platform can be hosted on-premise, or on the client cloud. It can be branded and customised to suit the client. We continuously work with our clients to ensure successful deployment.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="product-imgs-div">
+            <div class="owl-carousel products-owl">
+                <!-- <div style="width: 300px; height: 300px">
+                    <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/5.jpg');" href="images/inner-images/gallery/commercial-products/5.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                </div>
+                <div class="box e">
+                    
+                </div>
+                <span ><a style="width: 300px; height: 300px;" data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/1.jpg');" href="images/inner-images/gallery/commercial-products/1.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a></span> -->
+               <span><img src="images/inner-images/gallery/commercial-products/1.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/2.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/3.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/4.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/5.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/6.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/7.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/8.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/9.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/10.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/11.jpg" alt="products"></span>
+           </div>
+        </div>
+
+        <div class="product-links-wrapper">
+            <div class="fluid-container">
+                <div class="product-links">
+                    <a href="sativus">Sativus</a>
+                    <a href="crop-input-tracking">Crop Input Tracking</a>
+                    <a href="rootstock">Rootstock</a>
+                </div>
+            </div>
+        </div>
+
+        
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+    <script>
+    /* Slider */
+    $(document).ready(function(){$(".owl-carousel.commercial-products-slider").owlCarousel({items:1,loop:!0,nav:!1,dots:!0,autoplay:!0,autoplaySpeed:200,smartSpeed:200,autoplayHoverPause:!0})});
+    /* Slider */ 
+    </script>
+    <script>
+        $(".owl-carousel.products-owl").owlCarousel({loop:!0,margin:10,autoplay:!0,autoplayTimeout:3e3,autoplayHoverPause:!0,nav:!1,dots:!1,responsive:{0:{items:1},480:{items:2},650:{items:3},900:{items:3},1000:{items:4},1280:{items:5},1600:{items:6},1900:{items:7}}});
+    </script>
+
+</body>
+</html>

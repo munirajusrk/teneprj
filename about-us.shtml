@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>About Tene</title>
+    <meta name="description" content="Tene: Empowering Agriculture with Innovative Software Solutions.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/about-us-banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>ABOUT US</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>About Us</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="abt-wrapper">
+            <div class="fluid-container">
+                <div class="inner-abt-wrapper">
+                    <div class="abt-left-img">
+                        <div class="abt-exp">
+                            <h4><span class="libre-bodoni-counter">5+</span><br> Years Of Experience In <br> The Field</h4>   
+                        </div>
+                    </div>
+                    <div class="abt-right-txt">
+                        <h2 class="index-h2">ABOUT US</h2>
+                        <p>We create software products for the agri sector. At present, we focus on integrating the interactions between different stakeholders involved in crop production. Our products come with accurate content that supports the farmers, subject experts, input manufacturers, agro-dealers, extension workers and others. </p>
+                        <p>Our super strong domain and tech teams create products that stand out in the crowd. Our management has a combined professional experience of 70 years covering different aspects of agriculture — Science, Business and Development.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mission-wrapper">
+            <div class="fluid-container">
+                <div class="inner-mission">
+                    <div class="mission">
+                        <h2 class="index-h2">VISION</h2>
+                        <p>To Become the Digital Playground for Every Player of Agriculture</p>
+                        <h2 class="index-h2">Mission</h2>
+                        <p>We Create Content Rich Software Products that Enable Diverse Interactions in the Agricultural Sector</p>
+                    </div>
+                    <div class="about-cards " id="counter">
+                        <div class="about-card">
+                            <h6 class="libre-bodoni-counter"><span class="counter-value" data-count="150000">15</span>+</h6>
+                            <p>No. of farmers <br> served</p>
+                        </div>
+                        <div class="about-card">
+                            <h6 class="libre-bodoni-counter"><span class="counter-value" data-count="10000">10</span>+</h6>
+                            <p>No. of service <br> providers</p>
+                        </div>
+                        <div class="about-card">
+                            <h6 class="libre-bodoni-counter"><span class="counter-value" data-count="50">4</span>+</h6>
+                            <p>No. of clients <br> supported</p>
+                        </div>
+                        <div class="about-card">
+                            <h6 class="libre-bodoni-counter"><span class="counter-value" data-count="53">3</span>+</h6>
+                            <p>No. of crops <br> covered</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="our-story-wrapper">
+            <div class="fluid-container">
+                <div class="inner-our-story">
+                    <h2 class="index-h2">OUR Story</h2>
+                    <p>We began exploring the agri-tech industry in 2010. We started with Crop Health Management. Our intension was to assist an extension worker during diagnosis of crop health problems and prescribing solutions to the farmer. We got an opportunity to demonstrate the first prototype of our product to a team of agricultural scientists in 2011. The scientists wanted to test the system, which gave us the first break. We successfully deployed the system by the end of the same year. Later, we teamed up and started Tene in 2012.</p>
+                    <p>We focused on Crop Health for the next few years. During this time, our product was adopted by four Agri Universities and tested. Ultimately, the State Government of Karnataka adopted the product in the name of eSAP. The implementation of eSAP is coordinated by the University of Agricultural Sciences, Raichur.</p>
+                    <p>During 2014, we started a program called DESEE Force (= Digitally Empowered Self Employed Extension Force). Under this program, we worked on the capacity building of rural men and women to serve as extension service providers, essentially Crop Doctors. We partnered with NGOs, private companies and international organizations for the implementation of this program. We developed training modules and customised mobile applications for non-technical users.</p>
+                    <p>Hundreds of youths were successfully trained under the program. The training modules and the mobile application was recently integrated into eSAP for implementation in Karnataka. Karnataka State Government has recently launched the Registered Agricultural Practitioners Program on the lines of the DESEE Force Model.</p>
+                    <p>We brought in multiple products during 2023 like the Crop Input Tracking System and PesTesT. During 2024, we shall be launching one of the biggest agri platforms in the world called "Rootstock".</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="our-team-wrapper">
+            <div class="fluid-container">
+                <div class="inner-our-team-top">
+                    <h2 class="index-h2">OUR TEAM</h2>
+                    <p>At Tene, we are a team in every sense of the word. We believe that transparency and participation are key to team spirit. Our team is actively involved in the decision-making process. Overall, we expect high levels of integrity and dedication by our team members. We don’t have space for anyone who cannot enjoy work.</p>
+                    <p>We are super strong in agri domain and well-supported by software developers. The core management has a combined experience of 70 years in agricultural science, business and developmental sectors. We are a great blend of experience and youth.</p>
+                </div>
+                <div class="inner-our-team-bottom owl-carousel" >
+                    <div class="team-card">
+                        <div class="team-img">
+                            <span><img src="./images/inner-images/team/srinivasa-yb.webp" alt="team"></span>
+                        </div>
+                        <div class="team-name">
+                            <p>Mr. Srinivasa</p>
+                            <h5>Managing Director</h5>
+                        </div>
+                        <div class="team-desc">
+                            <p>He worked for a national research institution as an agricultural scientist for 15 years. He spent another decade designing apps for agriculture.</p>
+                        </div>
+                    </div>
+                    <div class="team-card">
+                        <div class="team-img">
+                            <span><img src="./images/inner-images/team-3.jpg" alt="team"></span>
+                        </div>
+                        <div class="team-name">
+                            <p>Mr. Nagendra Shukla</p>
+                            <h5>Product Development Head</h5>
+                        </div>
+                        <div class="team-desc">
+                            <p> He has spent two decades steering large IT projects in different countries.</p>
+                        </div>
+                    </div>
+                    <div class="team-card">
+                        <div class="team-img">
+                            <span><img src="./images/inner-images/team/sanjay-dwivedi.webp" alt="team"></span>
+                        </div>
+                        <div class="team-name">
+                            <p>Dr. Sanjay Dwivedi</p>
+                            <h5>Director</h5>
+                        </div>
+                        <div class="team-desc">
+                            <p> He has been in the business of agricultural seeds for 25 years.</p>
+                        </div>
+                    </div>
+                    <div class="team-card">
+                        <div class="team-img">
+                            <span><img src="./images/inner-images/team/dwijendranath-guru.webp" alt="team"></span>
+                        </div>
+                        <div class="team-name">
+                            <p>Dr. Dwijendra Nath Guru</p>
+                            <h5>Director</h5>
+                        </div>
+                        <div class="team-desc">
+                            <p>He is an engineer who has been working in the rural development sector for two decades.</p>
+                        </div>
+                    </div>
+                    <div class="team-card">
+                        <div class="team-img">
+                            <span><img src="./images/inner-images/team-3.jpg" alt="team"></span>
+                        </div>
+                        <div class="team-name">
+                            <p>Dr. Rajendra Prasad</p>
+                            <h5>Advisor</h5>
+                        </div>
+                        <div class="team-desc">
+                            <p> He served as the Vice Chancellor of the University of Agricultural Sciences, Bangalore. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+    <script>
+        /* testimonials carousel */
+        $('.owl-carousel.inner-our-team-bottom').owlCarousel({ center:true, loop:true, margin:10, autoplay:true, autoplayTimeout:4000, autoplayHoverPause:false, responsiveClass:true, dots:true, nav:false,
+             responsive:{  
+                0:{ items:1, center:false,}, 
+                736:{ items:2, center:false, }, 
+                992:{  items:3, }
+            } 
+        })
+        /* testimonials carousel */
+
+        // Data Counter
+        var a = 0;
+        $(window).scroll(function() {
+        
+          var oTop = $('#counter').offset().top - window.innerHeight;
+          if (a == 0 && $(window).scrollTop() > oTop) {
+            $('.counter-value').each(function() {
+              var $this = $(this),
+                countTo = $this.attr('data-count');
+              $({
+                countNum: $this.text()
+              }).animate({
+                  countNum: countTo
+                },
+                {
+                  duration: 2000,
+                  easing: 'swing',
+                  step: function() {
+                    $this.text(Math.floor(this.countNum));
+                  },
+                  complete: function() {
+                    $this.text(this.countNum);
+                  }
+                });
+            });
+            a = 1;
+          }
+        });
+        // Data Counter
+    </script>
+</body>
+</html>

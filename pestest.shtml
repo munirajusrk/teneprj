@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>PesTest</title>
+    <meta name="description" content="PesTest, a product by Tene, is a training cum evaluation system in Crop Health Management. It aims to train extension agents, farmers, dealers, and students on a simple methodology for accurate diagnosis of crop health issues such as insects, diseases, and nutritional deficiencies.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+    <style>.left-about-com-products-img-info-em {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        bottom: -130px;
+        right: 0;
+        padding: 5px;
+        background-color: #fff;
+        max-width: 300px;
+    }</style>
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper pestest">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/gallery-banner.png) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>PESTEST</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Info Products</span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>PesTest</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="abt-info-products">
+            <div class="fluid-container">
+                <div class="about-info-products-warpper">
+                    <div class="left-about-info-products-img-info" style="padding: relative;">
+                         <span class="left-about-info-products-img-info-span"><img src="images/inner-images/abt-product-1.jpg" alt="about-img"></span>
+                         <!-- <em class="left-about-com-products-img-info-em" style="bottom: 0; left: 0 ; margin: auto;"><img src="images/inner-images/product-logos/pestest.png" alt="about-img"></em> -->
+                     </div>
+                     <div class="right-about-info-products-txt-info">
+                        <h2 class="index-h2">Pestest</h2>
+                         <p>A training cum evaluation system in Crop Health Management.</p>
+                         <p>Insects, diseases and nutritional issues affect crop health. About 25% of a crop is lost despite spending about 25% of the total cost of cultivation. Additionally, improper crop health management is harming human health and the ecosystem. Early diagnosis is key to solving this concern. PesTesT aims to train extension agents, farmers, dealers, and students on a simple methodology for accurate diagnosis.</p>
+                         <div class="e-sap">
+                            <img src="./images/inner-images/esap.png" alt="e-sap">
+                         </div>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/info-products/pestest/capacity-building/1.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/capacity-building/2.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/capacity-building/3.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/capacity-building/4.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/capacity-building/5.jpg" alt="PesTest"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>CAPACITY BUILDING IN CROP HEALTH DIAGNOSIS</h4>
+                        <p>The app has videos that help the stakeholders in describing the symptoms and guessing the causal groups.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <!-- <span><img src="images/inner-images/info-products/pestest/cropcentricapproach.jpg" alt="PesTest"></span> -->
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-6.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-1.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-3.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-4.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-5.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-7.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/CROP-CENTRIC-APPROACH/CROP-CENTRIC-APPROACH-8.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/cropcentricapproach.jpg" alt="PesTest"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>CROP-CENTRIC APPROACH</h4>
+                        <p>Our methodology moves the stakeholders away from a narrow problem-centric approach to a holistic crop-centric approach.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/info-products/pestest/universallanguagefordiagnosis.jpg" alt="PesTest"></span>
+                    <div class="com-product-txt">
+                        <h4>UNIVERSAL LANGUAGE FOR DIAGNOSIS</h4>
+                        <p>The stakeholders are trained on a universal language for diagnosis. It allows them to handle any situation with confidence.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/info-products/pestest/practiceinrealfields.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/practiceinrealfields-2.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/PRACTICE-IN-REAL-FIELDS/PRACTICE-IN-REAL-FIELD-1.jpg" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/PRACTICE-IN-REAL-FIELDS/PRACTICE-IN-REAL-FIELD-2.jpg" alt="PesTest"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>PRACTICE IN REAL FIELDS</h4>
+                        <p>PesTesT will soon have the Practice feature that allows trainees to apply the methods for diagnosing actual field problems.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <div class="commercial-products-slider owl-carousel">
+                        <span><img src="images/inner-images/info-products/pestest/5-DIFFERENT-APPS-USE-OUR-METHOD-OF-DIAGNOSIS.png" alt="PesTest"></span>
+                        <span><img src="images/inner-images/info-products/pestest/5-DIFFERENT-APPS-USE-OUR-METHOD-OF-DIAGNOSIS.png-2.png" alt="PesTest"></span>
+                    </div>
+                    <div class="com-product-txt">
+                        <h4>DIFFERENT APPS USE OUR METHOD OF DIAGNOSIS</h4>
+                        <p>Our diagnosis methodology is simple and scalable. It is being adopted by different mobile apps like eSAP and the upcoming FarmaFy.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/info-products/pestest/evaluatingtrainees.png" alt="PesTest"></span>
+                    <div class="com-product-txt">
+                        <h4>EVALUATING TRAINEES</h4>
+                        <p>Applications like eSAP (adopted by the Government of Karnataka) uses PesTesT to evaluate stakeholders before providing login access to extension agents.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/info-products/pestest/p7.png" alt="PesTest"></span>
+                    <div class="com-product-txt">
+                        <h4>CERTIFICATE AS PROOF OF SUCCESSFUL TRAINING</h4>
+                        <p>PesTesT generates certificates to the successful trainees on behalf of our partners who use it for training and evaluation.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="product-imgs-div">
+            <div class="owl-carousel products-owl">
+                <span><img src="images/inner-images/gallery/info-products/1.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/8.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/2.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/5.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/3.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/7.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/4.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/6.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/9.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/10.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/11.jpg" alt="products"></span>
+                <span><img src="images/inner-images/gallery/info-products/12.jpg" alt="products"></span>
+           </div>
+        </div>
+        
+        <div class="product-links-wrapper">
+            <div class="fluid-container">
+                <div class="product-links">
+                    <a href="pestest">PesTest</a>
+                    <a href="label-claim">Label Claim</a>
+                </div>
+            </div>
+        </div>
+        
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+    <script>
+        /* Slider */
+        $(document).ready(function(){$(".owl-carousel.commercial-products-slider").owlCarousel({items:1,loop:!0,nav:!1,dots:!0,autoplay:!0,autoplaySpeed:200,autoplayTimeout:2000,smartSpeed:200,autoplayHoverPause:!0})});
+        /* Slider */ 
+        </script>
+
+<script>
+    $(".owl-carousel.products-owl").owlCarousel({loop:!0,margin:10,autoplay:!0,autoplayTimeout:3e3,autoplayHoverPause:!0,nav:!1,dots:!1,responsive:{0:{items:1},480:{items:2},650:{items:3},900:{items:3},1000:{items:4},1280:{items:5},1600:{items:6},1900:{items:7}}});
+</script>
+</body>
+</html>

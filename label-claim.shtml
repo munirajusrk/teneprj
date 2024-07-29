@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pesticide Label Claim</title>
+    <meta name="description" content="Tene's Pesticide Label Claim categorizes pesticides with user-friendly information including Mode of Action, Chemical Group, Hazard Category, Dosage, Dilution, and Waiting Period. Primarily sourced from CIB&RC, Govt. of India, updated as of March 31st, 2024. Relevant to India only.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+    <style>
+        .claim-filter-div { display: none}
+    </style>
+    
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="label-disclaimer">
+            <div class="fluid-container">
+                <div class="inner-disclaimer">
+                    <h2 class="index-h2" style="text-align: center;">PESTICIDE LABEL CLAIM</h2>
+                    <p>Pesticides with Label Claim have been categorized in a user-friendly manner. The information includes Mode of Action, Chemical Group and Hazard Category in addition to Dosage, Dilution and Waiting Period.</p>
+                    <p>The information has been primarily sourced from the CIB&RC, Govt. of India. CIB&RC Updated List on: 31st March 2024 <br>
+                        This is relevant to India only.</p>
+                    <!-- <p>The information given here is sourced from the latest data released by CIBRC. <br>
+                        This is relevant to India only.</p> -->
+                </div>
+            </div>
+        </div>
+
+        <div class="label-claim-sec">
+            <div class="fluid-container">
+                <div class="claim-inner">
+                    <form class="claim-radio">
+                        <span><input type="radio" name="filter-type" value="crop"  checked="checked"> Crop</span>
+                        <span><input type="radio" name="filter-type" value="pesticide"> Pesticide</span>
+                    </form>
+                    <div class="claim-filter-div" id="crop-filter-form">
+                        <form class="claim-form">
+                            <div class="claim-select">
+                                <select name="" id="label-crop">
+                                </select>
+                            </div>
+                            <div class="claim-filter">
+                                <select name="" id="label-pest">
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="claim-filter-div" id="pesticide-filter-form">
+                        <form class="claim-form">
+                            <div class="claim-select">
+                                <select name="" id="label-pesticide">
+                                </select>
+                            </div>
+                            <div class="claim-filter">
+                                <select name="" id="label-crop-2">
+                                </select>
+                            </div>
+                        </form>
+                        <ul class="common-card" id="card-pesticide-common">
+                        </ul>
+                    </div>
+                </div>
+                <div class="cards-inner" id="cards-inner"></div>
+            </div>
+        </div>
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+
+    <script src="./js/label-claim.js"></script>
+</body>
+</html>

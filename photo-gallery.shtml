@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Gallery</title>
+    <meta name="description" content="Explore the Tene Gallery featuring a diverse collection of images showcasing our commercial products and informative products. Click to view and enjoy our range of offerings.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/gallery-banner.png) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>GALLERY</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Gallery</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="gallery-wrapper">
+            <div class="fluid-container">
+                <div class="inner-gallery-wrapper">
+                    <div class="tabs">
+                        <ul id="tabs-nav">
+                            <li><a href="#tab1">All</a></li>
+                            <li><a href="#tab2">Commercial Products</a></li>
+                            <li><a href="#tab3">Info Products</a></li>
+                        </ul> 
+                        <div id="tabs-content">
+                            <div id="tab1" class="tab-content">
+                                <div class="gallery-container">
+                                    <div class="box a">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-8.jpg');" href="images/inner-images/gallery/g-8.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box b">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-5.jpg');" href="images/inner-images/gallery/g-5.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box c">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-9.jpg');" href="images/inner-images/gallery/g-9.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box d">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-2.jpg');" href="images/inner-images/gallery/g-2.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box e">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-11.jpg');" href="images/inner-images/gallery/g-11.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box f">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-1.jpg');" href="images/inner-images/gallery/g-1.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box g">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-7.jpg');" href="images/inner-images/gallery/g-7.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box h">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-3.jpg');" href="images/inner-images/gallery/g-3.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box i">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-10.jpg');" href="images/inner-images/gallery/g-10.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-6.jpg');" href="images/inner-images/gallery/g-6.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/g-4.jpg');" href="images/inner-images/gallery/g-4.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab2" class="tab-content">
+                                <div class="gallery-container">
+                                    <div class="box a">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/1.jpg');" href="images/inner-images/gallery/commercial-products/1.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box b">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/2.jpg');" href="images/inner-images/gallery/commercial-products/2.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box c">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/3.jpg');" href="images/inner-images/gallery/commercial-products/3.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box d">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/4.jpg');" href="images/inner-images/gallery/commercial-products/4.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box e">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/5.jpg');" href="images/inner-images/gallery/commercial-products/5.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box f">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/6.jpg');" href="images/inner-images/gallery/commercial-products/6.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box g">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/7.jpg');" href="images/inner-images/gallery/commercial-products/7.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box h">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/8.jpg');" href="images/inner-images/gallery/commercial-products/8.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box i">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/9.jpg');" href="images/inner-images/gallery/commercial-products/9.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/10.jpg');" href="images/inner-images/gallery/commercial-products/10.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/commercial-products/11.jpg');" href="images/inner-images/gallery/commercial-products/11.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tab3" class="tab-content">
+                                <div class="gallery-container">
+                                    <div class="box a">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/1.jpg');" href="images/inner-images/gallery/info-products/1.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box b">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/2.jpg');" href="images/inner-images/gallery/info-products/2.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box c">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/3.jpg');" href="images/inner-images/gallery/info-products/3.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box d">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/4.jpg');" href="images/inner-images/gallery/info-products/4.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box e">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/5.jpg');" href="images/inner-images/gallery/info-products/5.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box f">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/6.jpg');" href="images/inner-images/gallery/info-products/6.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box g">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/7.jpg');" href="images/inner-images/gallery/info-products/7.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box h">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/8.jpg');" href="images/inner-images/gallery/info-products/8.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box i">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/9.jpg');" href="images/inner-images/gallery/info-products/9.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/10.jpg');" href="images/inner-images/gallery/info-products/10.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                    <div class="box j">
+                                        <a data-fancybox="gallery" data-caption="Tene Gallery" style="background-image: url('images/inner-images/gallery/info-products/11.jpg');" href="images/inner-images/gallery/info-products/11.jpg" class="with-caption image-link" title="Image 1"><em>View Image</em></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- END tabs-content -->
+                </div>
+            </div>
+        </div>
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+    
+</body>
+</html>

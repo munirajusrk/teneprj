@@ -1,0 +1,156 @@
+<!-- Footer -->
+
+<footer>
+    <div class="top-footer-wrapper">
+        <div class="fluid-container">
+            <div class="inner-top-footer-wrapper">
+                <div class="footer-card">
+                    <span><img src="./images/tene-logo.png" alt="logo"></span>
+                    <p>We Provide Readymade Software Solutions To The Agri Sector. We Develop, Host, And Maintain Our Solutions, And Train/Support Users In Handling Them.</p>
+                </div>
+                <div class="footer-card">
+                    <div class="contact-info">
+                        <div class="contact-info-img">
+                            <img src="./images/icons/location.png" alt="icon">
+                        </div>
+                        <div class="contact-info-txt">
+                            <a href="https://maps.app.goo.gl/THnBqhsEsALDTfSU9" target="_blank">1238, 7th B Cross Rd, Yelahanka Satellite Town, Yelahanka, Bengaluru, Karnataka 560064</a>
+                        </div>
+                    </div>
+                    <div class="contact-info">
+                        <div class="contact-info-img">
+                            <img src="./images/icons/phone-call.png" alt="icon">
+                        </div>
+                        <div class="contact-info-txt">
+                            <a href="tel:918035542411">+91 8035542411</a>
+                        </div>
+                    </div>
+                    <div class="contact-info">
+                        <div class="contact-info-img">
+                            <img src="./images/icons/email.png" alt="icon">
+                        </div>
+                        <div class="contact-info-txt">
+                            <a href="mailto:Info@Tene-Ag.Com">Info@Tene-Ag.Com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="middle-footer-wrapper">
+        <div class="fluid-container">
+            <div class="inner-middle-footer-wrapper">
+                <ul class="footer-nav">
+                    <li><a href="sitemap">Sitemap</a></li>
+                    <li><a href="pp">Privacy Policy</a></li>
+                    <li><a href="cancellation-refund-policy">Return Policy</a></li>
+                    <li><a href="terms-conditions">Terms & Conditions</a></li>
+                </ul>
+                <ul class="social-links">
+                    <li><a href="https://www.facebook.com/TeneAgri/" aria-label="Link to Tene's Facebook account"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a href="https://twitter.com/eSAP_Tene" aria-label="Link to Tene's Twitter account"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="https://in.linkedin.com/company/t-e-n-e-a-g-r-i-c-u-l-t-u-r-a-l-s-o-l-u-t-i-o-n-s-p-v-t---l-t-d--" aria-label="Link to Tene's LinkedIn account"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="copy-footer-wrapper">
+        <div class="fluid-container">
+            <div class="inner-copy-footer-wrapper">
+                <p>© <span id="current-year">2023</span> Tene. All Rights Reserved.</p>
+                <p>Developed by : <a href="https://www.swaragh.com/"><img src="images/swaragh-logo.png" alt="swaragh-logo"></a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="to-top" title="Go to Top"><img src="./images/icons/wheat.png" alt="to-top"></div>
+
+<!-- Footer -->
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="js/common.js" async></script>
+
+<script>
+    // Go to top 
+    $("#to-top").hide();
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('#to-top').fadeIn();
+        } else {
+            $('#to-top').fadeOut();
+        }
+    });
+    $('#to-top').click(function () {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 500);
+        return false;
+    });
+    // Go to top
+</script>
+
+<script>
+    document.getElementById("current-year").innerHTML = new Date().getFullYear();
+    $(function() {
+        var header = $("header");
+    });
+</script>
+
+<script>
+    $('#tabs-nav li:first-child').addClass('active');
+    $('.tab-content').hide();
+    $('.tab-content:first').show();
+    
+    // Click function
+    $('#tabs-nav li').click(function () {
+        $('#tabs-nav li').removeClass('active');
+        $(this).addClass('active');
+        $('.tab-content').hide();
+        
+        var activeTab = $(this).find('a').attr('href');
+        $(activeTab).fadeIn();
+        return false;
+    });
+</script>
+
+<script>
+    // Scrolled Header
+    $(function () {
+        var header = $("header");
+
+        $(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+            if (scroll >= 100) {
+                header.addClass("scrolled-header");
+            } else {
+                header.removeClass("scrolled-header");
+            }
+        });
+
+    });
+// Scrolled Header
+</script>
+
+<!-- <script>
+    $(".owl-carousel.products-owl").owlCarousel({loop:!0,margin:10,autoplay:!0,autoplayTimeout:3e3,autoplayHoverPause:!0,nav:!1,dots:!1,responsive:{0:{items:1},480:{items:2},650:{items:3},900:{items:3},1000:{items:4},1280:{items:5},1600:{items:6},1900:{items:7}}});
+</script> -->
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    window.onload = function() {
+        AOS.init();
+    };
+</script>
+
+<!-- fancybox gallery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"
+integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- fancybox gallery -->
+<!-- fancybox gallery -->
+<script>
+$('[data-fancybox="gallery"]').fancybox({ buttons: ["slideShow", "zoom", "fullScreen", "share", "close"], loop: true, protect: true });
+</script>
+<!-- fancybox gallery -->
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sitemap</title>
+    <meta name="description" content="Navigate through our website's sitemap for easy access to sections like home, about, products, contact, gallery, and policies.">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/about-us-banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>SITEMAP</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Sitemap</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sitemap">
+            <div class="fluid-container">
+                <div class="sitemap-wrapper">
+                    <h2  class="index-h2">SITEMAP</h2>
+                    <ul class="sitemap-list fl">
+                        <li><a href="index">Home</a></li>
+                        <li><a href="about-us">About</a></li>
+                        <li><span class="site-box">Commercial Products</span>
+                            <ul class="site-list-nested">
+                                <li><a href="sativus">Sativus</a></li>
+                                <li><a href="crop-input-tracking">Crop Input Tracking</a></li>
+                                <li><a href="rootstock">Rootstock</a></li>
+                            </ul>
+                        </li>
+                        <li><span class="site-box">Info Products</span>
+                            <ul class="site-list-nested">
+                                <li><a href="pestest">PesTesT</a></li>
+                                <li><a href="label-claim">Label Claim</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="contact-us">Contact</a></li>
+                        <li><a href="photo-gallery">Gallery</a></li>
+                        <li><a href="pp">Privacy Policy</a></li>
+                        <li><a href="cancellation-refund-policy">Return Policy</a></li>
+                        <li><a href="terms-conditions">Terms & Conditions</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+</body>
+</html>

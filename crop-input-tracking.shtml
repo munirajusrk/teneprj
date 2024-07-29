@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Crop Input Tracking </title>
+    <meta name="description" content="Crop Input Tracking by Tene enables QR code labelling for agricultural inputs such as seeds, pesticides, and fertilizers. Explore our solutions for unique client accounts, two-level coding, serialization options, save and print features, APIs for data transfer, dashboard monitoring, and robust security measures.">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/Crop-input-tracking-system-Banner.JPG) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>CROP INPUT TRACKING</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Commercial Products</span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Crop Input Tracking</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="abt-com-products">
+            <div class="fluid-container">
+                <div class="about-com-products-warpper">
+                    <div class="left-about-com-products-img-info">
+                         <span class="left-about-com-products-img-info-span"><img src="images/inner-images/commercial-products/cits/cropinputbgimage.jpg" alt="about-img"></span>
+                         <em class="left-about-com-products-img-info-em" style="background-color: transparent; max-width: 400px; bottom: -90px;"><img src="images/inner-images/commercial-products/cits/cropinputtrcaingfrontimage.png" alt="about-img"></em>
+                     </div>
+                     <div class="right-about-com-products-txt-info">
+                        <h2 class="index-h2">Crop Input Tracking</h2>
+                         <p>We support QR code labelling of agricultural inputs — Seeds, Pesticides and Fertilisers.</p>
+                     </div>
+                 </div>
+            </div>
+        </div>
+
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/clientsacoount.png" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>CLIENT ACCOUNTS</h4>
+                        <p>Unique client-accounts are created in the system. Client admins can add users to the respective accounts.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/twolevelcoding.png" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>TWO-LEVEL CODING</h4>
+                        <p>Clients can generate unique container and item codes so that every item is mapped to its container.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/withorwihoutserialisation.jpg" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>WITH OR WITHOUT SERIALISATION</h4>
+                        <p>Clients can choose to have unique QR codes for every item, or for a batch of items.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/savandprint.jpg" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>SAVE AND PRINT</h4>
+                        <p>Clients can save the codes generated. Codes can be exported for printing on pouches directly, or for printing on stickers. Clients can chose to export the codes in different sizes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/apisfordatatransfer.png" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>APIs FOR DATA TRANSFER</h4>
+                        <p>Clients, especially large industries, can chose to have the data transferred to their servers. We provide APIs for the same.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/dashboard.png" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>DASHBOARD</h4>
+                        <p>We provide dashboards that allow easy tracking of the QR codes generated and scanned.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="commercial-products-wrapper1">
+            <div class="fluid-container">
+                <div class="commercial-products-info">
+                    <span><img src="images/inner-images/commercial-products/cits/security.jpg" alt="Crop Input Tracking"></span>
+                    <div class="com-product-txt">
+                        <h4>SECURITY</h4>
+                        <p>The solution and data are securely maintained. The rights to the data belong to the respective clients entirely.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="product-imgs-div">
+            <div class="owl-carousel products-owl">
+               <span><img src="images/inner-images/gallery/commercial-products/1.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/2.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/3.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/4.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/5.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/6.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/7.jpg" alt="products"></span>
+               <span><img src="images/inner-images/gallery/commercial-products/8.jpg" alt="products"></span>
+           </div>
+        </div>
+        
+        <div class="product-links-wrapper">
+            <div class="fluid-container">
+                <div class="product-links">
+                    <a href="sativus">Sativus</a>
+                    <a href="crop-input-tracking">Crop Input Tracking</a>
+                    <a href="rootstock">Rootstock</a>
+                </div>
+            </div>
+        </div>
+
+
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+    <script>
+        $(".owl-carousel.products-owl").owlCarousel({loop:!0,margin:10,autoplay:!0,autoplayTimeout:3e3,autoplayHoverPause:!0,nav:!1,dots:!1,responsive:{0:{items:1},480:{items:2},650:{items:3},900:{items:3},1000:{items:4},1280:{items:5},1600:{items:6},1900:{items:7}}});
+    </script>
+</body>
+</html>

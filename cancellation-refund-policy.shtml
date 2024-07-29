@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Cancellation and Refund Policy</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <!--#include virtual="includes/meta-tags.html" -->
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="wrapper">
+        <!--#include virtual="includes/header.html" -->
+
+        <div class="inner-page-banner-wrapper" style="background: url(./images/banners/about-us-banner.jpg) no-repeat center center/cover;">
+            <div class="fluid-container">
+                <div class="inner-page-banner">
+                    <h2>RETURN POLICY</h2>
+                    <div class="banner-breadcrumbs">
+                        <span><a href="index">Home</a></span>
+                        <span><i class="fa-solid fa-angles-right"></i></span>
+                        <span>Cancellation and Refund Policy</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="inner-page-section-wrapper">
+            <div class="fluid-container">
+                <div class="inner-page-section">
+                    <h2 class="index-h2">Cancellation and Refund Policy</h2>
+                    <p>This Cancellation and Refund Policy (hereinafter “C&R Policy”) summarises the practices followed by Tene Agricultural Solutions Pvt. Ltd., Bengaluru (“or Company") towards cancellation and refund of the online subscriptions made by the subscribers of the mobile apps associated with our software application — “Rootstock”.</p>
+                    <ul class="tene-ul">
+                        <li><span>01.</span><span>Farmers subscribe to the Crop Packages published on the Rootstock Farmer App by paying the prescribed charges to the Company. The Crop Packages contain information about cultivating the crop, and are tailored, as close as possible, to the subscribers’ field situations. As the subscription pertains to the cultivation knowledge (or information), it cannot be returned. Therefore, the Company shall not refund the amount that is once paid by the farmers towards subscription of Crop Packages.</span></li>
+                        <li><span>02.</span><span>Facilitators and Input Sellers can pay on behalf of the Farmers towards the subscription of the Crop Packages. These payments are channelised through the respective Facilitator App and Input Sellers App of Rootstock. As these payments pertain to the knowledge (or information) on crop cultivation, it cannot be returned. Therefore the Company shall not refund the amount that is once paid by the Facilitator or Input Seller towards subscription of Crop Packages.</span></li>
+                        <li><span>03.</span><span>Facilitators and Input Sellers can purchase and save Points in their respective Rootstock accounts. These points shall be deducted as and when an expense towards the same has been made by the respective Facilitators and Input Sellers, including payment towards subscription of knowledge (or information) on crop cultivation on behalf of the farmers. The Company does not make any provision towards cancellation of the Points purchased and shall not return the amount once paid towards the purchase of the Points.</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--#include virtual="includes/footer.html" -->
+    </div>
+    <!-- wrapper -->
+</body>
+</html>
